@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Address_book.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Add_address_note.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Add_event.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Add_good.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Auth_user.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Events.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Event_tasks.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Goods.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Navigation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
