@@ -22,6 +22,7 @@ namespace Goods
         DataBase dataBase = new DataBase();
 
         int selectedRow;
+        int test;
 
         private void CreateColumns()
         {

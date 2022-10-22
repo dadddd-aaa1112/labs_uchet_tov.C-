@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "er5hXvsxWX9RKT6X6woZwebtPJxpE+cYBm91qU9VWQ+Mm0cZEXbA16FKbGhOocSAfSjYO5bxDat6kAzuJ9Ygbg==",
+  "dgSpecHash": "7W22+JGiPukC7NlSnw5ZTahDRtsgbZ8mnFkxFMBbx6+RDnEk+SH3rrVmLYUXBlfC1tWR52NTcy7tMWDDnEc8WA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\User\\Desktop\\3 курс\\Техн разраб ПО\\Goods — копия\\Goods.csproj",
+  "projectFilePath": "C:\\Users\\User\\Desktop\\3 курс\\Техн разраб ПО\\test clone\\labs_uchet_tov.C-\\Goods.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\User\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

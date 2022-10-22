@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\Desktop\\3 курс\\Техн разраб ПО\\Goods — копия\\Goods.csproj": {}
+    "C:\\Users\\User\\Desktop\\3 курс\\Техн разраб ПО\\test clone\\labs_uchet_tov.C-\\Goods.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Desktop\\3 курс\\Техн разраб ПО\\Goods — копия\\Goods.csproj": {
+    "C:\\Users\\User\\Desktop\\3 курс\\Техн разраб ПО\\test clone\\labs_uchet_tov.C-\\Goods.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Desktop\\3 курс\\Техн разраб ПО\\Goods — копия\\Goods.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Desktop\\3 курс\\Техн разраб ПО\\test clone\\labs_uchet_tov.C-\\Goods.csproj",
         "projectName": "Goods",
-        "projectPath": "C:\\Users\\User\\Desktop\\3 курс\\Техн разраб ПО\\Goods — копия\\Goods.csproj",
+        "projectPath": "C:\\Users\\User\\Desktop\\3 курс\\Техн разраб ПО\\test clone\\labs_uchet_tov.C-\\Goods.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Desktop\\3 курс\\Техн разраб ПО\\Goods — копия\\obj\\",
+        "outputPath": "C:\\Users\\User\\Desktop\\3 курс\\Техн разраб ПО\\test clone\\labs_uchet_tov.C-\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
