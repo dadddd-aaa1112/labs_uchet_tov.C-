@@ -23,6 +23,7 @@ namespace Goods
 
         int selectedRow;
         int test;
+        int testBranch;
 
         private void CreateColumns()
         {
